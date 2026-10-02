@@ -1,0 +1,6 @@
+{
+  "interval_s": 60,
+  "shed": ["python .*nightly_batch\\.py", "comfyui .*--batch"],
+  "immune": ["/Applications/Ollama\\.app/Contents/MacOS/Ollama"],
+  "notify": true
+}
